@@ -1,5 +1,5 @@
 #include "main.h"
-//check
+/* check */
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
